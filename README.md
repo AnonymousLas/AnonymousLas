@@ -3,7 +3,7 @@
   <img src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif" height="300px" width="70%" />
 </div>
 
-<h2> Hey there! I'm Marco Antonio F <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2> Hey there! I'm Marco Antonio... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
