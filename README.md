@@ -13,29 +13,6 @@ I'm a passionate cybersecurity student, specializing in:
 - 🛡️ **Ethical hacking & penetration testing**
 - 🌐 **OSINT, web app security, and network analysis**
 - 👨‍💻 Enthusiastic about backend/frontend development, databases, and DevOps tools
-
-Always learning and growing through labs, challenges, and CTFs.
-
----
-
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">How to reach me 🤝</h2></summary>
-  </ul>
-
-  <p align="left">
-    <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
-    </a>
-    <a href="mailto:tu-correo@gmail.com" target="_blank">
-      <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="Gmail" height="50" width="50" />
-    </a>
-    <a href="https://discordapp.com/users/tu-discord" target="_blank">
-      <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
-    </a>
-  </p>
-</div>
-
 ---
 ## 🛠️ My Skills
 
